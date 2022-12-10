@@ -1,2 +1,3 @@
-# -adventOfCode2022-Day10
-Challenge from advent of code day 10
+# adventOfCode2022-Day10
+Challenge from adventofcode.com
+https://adventofcode.com/2022/day/10
